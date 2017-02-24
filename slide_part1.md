@@ -22,7 +22,6 @@ Github Star
 
 --<n>--
 
---<n>--
 
 Author: Taylor Otwell <!-- .element: style="font-size: 2em" -->
 
