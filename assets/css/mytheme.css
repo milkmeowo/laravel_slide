@@ -1,8 +1,8 @@
 /**** Mixins and settings ****/
-@import url(//fonts.useso.com/css?family=Open+Sans:300,300italic,400,400italic,700);
-@import url(//fonts.useso.com/css?family=Lato:300);
-@import url(//fonts.useso.com/css?family=Loved+by+the+King);
-@import url(//fonts.useso.com/css?family=Oleo+Script+Swash+Caps:700);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700);
+@import url(//fonts.googleapis.com/css?family=Lato:300);
+@import url(//fonts.googleapis.com/css?family=Loved+by+the+King);
+@import url(//fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps:700);
 /* FONT PATH
  * -------------------------- */
 @font-face {
