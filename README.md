@@ -1,6 +1,6 @@
 #laravel-slide
 
-在四脚猫的一次分享《laravel与框架二三事》 [在线地址](http://lifesign.github.io/laravel_slide/)
+在深圳 Laravel China 的一次分享《你我的Laravel》 [在线地址](http://milkmeowo.github.io/laravel_slide/)
 
 ## How to Run
 
